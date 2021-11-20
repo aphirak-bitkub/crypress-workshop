@@ -1,0 +1,32 @@
+{
+    "article": {
+        "id": 485,
+        "slug": "111222-54",
+        "title": "111222",
+        "description": "122",
+        "body": "1212",
+        "createdAt": "2021-11-17T03:04:47.788Z",
+        "updatedAt": "2021-11-17T03:04:47.788Z",
+        "authorId": 54,
+        "tagList": [],
+        "author": {
+            "username": "imaikungki",
+            "bio": null,
+            "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+        },
+        "comments": [],
+        "favoritedBy": [
+            {
+                "id": 54,
+                "email": "aphirk@hotmail.com",
+                "username": "imaikungki",
+                "password": "$2a$10$WLeSF8z1ly6ousQGOTW9Mekt1CqY3bUUL7Rqt/lL5dgLgQ4HiB2CW",
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+                "bio": null,
+                "demo": false
+            }
+        ],
+        "favorited": true,
+        "favoritesCount": 1
+    }
+}

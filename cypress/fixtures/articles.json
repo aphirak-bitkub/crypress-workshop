@@ -1,0 +1,68 @@
+{
+    "articles": [
+        {
+            "slug": "Article-01-292",
+            "title": "Article-01",
+            "description": "Article-01",
+            "body": "Article-01",
+            "createdAt": "2021-11-20T14:35:39.406Z",
+            "updatedAt": "2021-11-20T14:35:39.406Z",
+            "tagList": [],
+            "author": {
+                "username": "gklcsipl",
+                "bio": null,
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+            },
+            "comments": [],
+            "favoritesCount": 0,
+            "favorited": false
+        },
+
+        {
+            "slug": "Article-02",
+            "title": "Article-02",
+            "description": "Article-02",
+            "body": "Article-02",
+            "createdAt": "2021-11-17T03:03:41.320Z",
+            "updatedAt": "2021-11-17T03:03:41.320Z",
+            "tagList": [
+                "tag-02",
+                "tag-03",
+                "tag-04",
+                "tag-05"
+            ],
+            "author": {
+                "username": "imaikungki",
+                "bio": null,
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+            },
+            "comments": [],
+            "favoritesCount": 3,
+            "favorited": true
+        },
+        {
+            "slug": "Article-03",
+            "title": "Article-03",
+            "description": "Article-03",
+            "body": "Article-03",
+            "createdAt": "2021-11-17T03:03:41.320Z",
+            "updatedAt": "2021-11-17T03:03:41.320Z",
+            "tagList": [
+                "tag-02",
+                "tag-03",
+                "tag-04",
+                "tag-05"
+            ],
+            "author": {
+                "username": "imaikungki",
+                "bio": null,
+                "image": "https://api.realworld.io/images/smiley-cyrus.jpeg"
+            },
+            "comments": [],
+            "favoritesCount": 2,
+            "favorited": true
+        }
+    
+    ],
+    "articlesCount": 3
+}
