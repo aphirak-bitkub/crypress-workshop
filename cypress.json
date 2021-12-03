@@ -1,3 +1,7 @@
 { 
-    "baseUrl": "http://localhost:4200" 
+    "baseUrl": "http://localhost:4200",
+    "bitkubUrl":"http://bitkub.io",
+    "viewportWidth": 1440,
+    "viewportHeight" :900
+    
 }
